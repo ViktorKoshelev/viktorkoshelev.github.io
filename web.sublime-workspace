@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"analysis"
+			],
+			[
+				"ac",
+				"access_token_secret"
+			],
+			[
+				"c",
+				"consumer_secret"
+			],
+			[
+				"co",
+				"consumer_key"
+			],
+			[
+				"acc",
+				"accuracy_test"
+			],
+			[
+				"nei",
+				"neighbour"
+			],
+			[
+				"pre",
+				"prediction"
+			],
+			[
+				"predi",
+				"prediction"
+			],
+			[
+				"Li",
+				"LogisticRegression"
+			],
+			[
+				"flex-",
+				"flex-grow"
+			],
+			[
+				"start",
+				"start_f"
+			],
+			[
+				"is_",
+				"is_delta_Pn"
+			],
+			[
+				"is",
+				"is_delta_f"
+			],
+			[
+				"is_del",
+				"is_delta_f"
+			],
+			[
+				"poli",
+				"polinom"
+			],
+			[
+				"gr",
+				"graph_axes"
+			],
+			[
+				"set",
+				"set_ylim"
+			],
+			[
+				"del",
+				"delta_f"
+			],
+			[
+				"po",
+				"pol"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"atled",
+				"atled_m"
+			],
+			[
+				"at",
+				"atled_m"
+			],
+			[
+				"axes",
+				"axes_checkbuttons"
+			],
+			[
+				"axe",
+				"axes_slider_alfa"
+			],
+			[
+				"g",
+				"graph_axes"
+			],
+			[
+				"num",
+				"numbers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 121,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/vi/557714DD02C76B69/Обучалочка/web/web-depelopment"
+	],
+	"file_history":
+	[
+		"/media/vi/557714DD02C76B69/Обучалочка/Python for Data Science/3/TF_sentiment_analysis.py",
+		"/media/vi/557714DD02C76B69/Численные методы/Lab1/main.py",
+		"/media/vi/557714DD02C76B69/Обучалочка/Python for Data Science/.gitignore",
+		"/media/vi/557714DD02C76B69/Обучалочка/Python for Data Science/2/result.csv",
+		"/media/vi/557714DD02C76B69/Обучалочка/Python for Data Science/2/sentiment_analyzer.py",
+		"/media/vi/557714DD02C76B69/Обучалочка/Python for Data Science/lesson_1.py",
+		"/media/vi/557714DD02C76B69/Обучалочка/just js/index.css",
+		"/media/vi/557714DD02C76B69/Обучалочка/just js/index.html",
+		"/media/vi/557714DD02C76B69/Обучалочка/Python/learn.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"float",
+			"delta_f",
+			"/n",
+			"n",
+			"/n",
+			"x1-x2",
+			"i",
+			"x",
+			"push",
+			"val",
+			"alfa",
+			"val",
+			"alfa",
+			"numbers",
+			"(\"> "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"append"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
